@@ -4,11 +4,11 @@
 
     <groupId>dev.psmolinski.kafka</groupId>
     <artifactId>kafka-connect-access-log</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <scm>
         <connection>scm:git:git@github.com:piotrsmolinski/kafka-connect-access-log.git</connection>
         <url>https://github.com/piotrsmolinski/kafka-connect-access-log</url>
-        <tag>kafka-connect-access-log-0.0.2</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
