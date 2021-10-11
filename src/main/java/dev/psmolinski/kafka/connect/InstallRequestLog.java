@@ -19,7 +19,7 @@ import java.util.function.Consumer;
  * <br/>
  * The problems in the original code:
  * <ul>
- * <li>handler uses fixed category shared with other parts of the RestServer</ul>
+ * <li>handler uses fixed category shared with other parts of the RestServer</li>
  * <li>the handler is injected into place where it is never invoked</li>
  * </ul>
  * For the installation add the following entries in the connect-distributed.properties:
